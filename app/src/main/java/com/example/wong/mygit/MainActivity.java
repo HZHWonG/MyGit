@@ -21,4 +21,14 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    /**
+     * feature-2
+     * display HelloAndroid
+     * @param view
+     */
+    public void feature2(View view) {
+        
+    }
+
 }
