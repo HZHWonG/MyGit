@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void feature1(View view) {
-
     }
 
 
@@ -28,7 +27,15 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void feature2(View view) {
-        
+
+    }
+
+    /**
+     * feature-4
+     * display Hello
+     * @param view
+     */
+    public void feature4(View view) {
     }
 
 }
