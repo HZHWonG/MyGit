@@ -54,4 +54,12 @@ public class MainActivity2 extends AppCompatActivity {
     public void feature6(View view) {
     }
 
+    /**
+     * feature-7
+     * display Hello
+     * @param view
+     */
+    public void feature7(View view) {
+    }
+
 }
