@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,6 +36,14 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void feature4(View view) {
+    }
+
+    /**
+     * feature-5
+     * display Hello
+     * @param view
+     */
+    public void feature5(View view) {
     }
 
     /**
