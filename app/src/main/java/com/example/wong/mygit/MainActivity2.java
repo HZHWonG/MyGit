@@ -62,4 +62,6 @@ public class MainActivity2 extends AppCompatActivity {
     public void feature7(View view) {
     }
 
+    //远程服务库跟新下来
+
 }
