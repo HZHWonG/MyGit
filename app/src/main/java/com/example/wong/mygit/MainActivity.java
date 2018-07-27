@@ -54,6 +54,9 @@ public class MainActivity extends AppCompatActivity {
     public void feature7(View view) {
     }
 
+    //test reset
+
+    //远程服务库跟新下来
     //远程服务库跟新下来-更改
     //从远程库库跟新下来2
 
